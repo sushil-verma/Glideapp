@@ -1,0 +1,1 @@
+GlideApp is a native Android application built using Java  and modern Android development practices. The app focuses on performance, scalability, and a clean architecture to deliver a smooth user experience.
